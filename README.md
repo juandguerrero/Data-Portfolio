@@ -50,7 +50,7 @@ Designed and implemented a complete ETL pipeline and Business Intelligence solut
 ### Repository
 
 🔗 **GitHub:**  
-[YOUR_OLIST_REPOSITORY_LINK](https://github.com/juandguerrero/Olist-Data-Warehouse-ETL-Pipeline/blob/main/README.md)
+[OLIST_REPOSITORY_LINK](https://github.com/juandguerrero/Olist-Data-Warehouse-ETL-Pipeline/blob/main/README.md)
 
 ---
 
@@ -103,7 +103,7 @@ Designed and implemented a production-inspired end-to-end data engineering pipel
 ### Repository
 
 🔗 **GitHub:**  
-[YOUR_ADVENTUREWORKS_REPOSITORY_LINK](https://github.com/juandguerrero/adventureworks-end-to-end-data-platform/blob/main/README.md)
+[ADVENTUREWORKS_REPOSITORY_LINK](https://github.com/juandguerrero/adventureworks-end-to-end-data-platform/blob/main/README.md)
 
 ---
 
