@@ -6,22 +6,25 @@ This repository showcases my hands-on projects in **Data Analytics**, **Business
 
 ---
 
-## 📂 Projects
+# 📂 Projects
 
-### 📊 Olist Marketplace ETL & Business Intelligence
+## 📊 Olist Marketplace ETL & Business Intelligence
 
-An end-to-end Business Intelligence project built using the **Olist Brazilian E-commerce Dataset**.
+### Overview
 
-#### Highlights
+Designed and implemented a complete ETL pipeline and Business Intelligence solution using the Olist Brazilian E-commerce Dataset. The project includes data profiling, dimensional modeling, ETL development, data validation, and an interactive Power BI dashboard to analyze marketplace performance.
+
+### Key Features
 
 - Data profiling and quality assessment
 - Star Schema data warehouse design
 - SQL-based ETL pipeline
+- Data cleaning and transformation
 - Data validation and reconciliation
 - Business KPI development
 - Interactive Power BI dashboard
 
-#### Technologies
+### Technology Stack
 
 - SQL Server
 - SQL
@@ -30,28 +33,47 @@ An end-to-end Business Intelligence project built using the **Olist Brazilian E-
 - Star Schema
 - Power BI
 
-🔗 **Repository:**  
-[Olist Marketplace ETL & Business Intelligence](YOUR_REPOSITORY_LINK)
+### Skills Demonstrated
+
+- Data Profiling
+- SQL Development
+- ETL Pipeline Design
+- Data Cleaning
+- Data Transformation
+- Data Warehouse Modeling
+- Star Schema Design
+- Data Validation
+- KPI Development
+- Business Intelligence
+- Dashboard Design
+
+### Repository
+
+🔗 **GitHub:**  
+YOUR_OLIST_REPOSITORY_LINK
 
 ---
 
-### ☁️ AdventureWorks End-to-End Data Engineering Pipeline
+## ☁️ AdventureWorks End-to-End Data Engineering Pipeline
 
-A production-inspired end-to-end data engineering project that demonstrates modern cloud data engineering practices using AWS, Databricks, and Apache Airflow.
+### Overview
 
-#### Highlights
+Designed and implemented a production-inspired end-to-end data engineering pipeline using the AdventureWorks dataset. The solution extracts data from AWS S3, validates and uploads it to Databricks, processes it through a Medallion Architecture, performs advanced SQL analytics, and visualizes business insights in Power BI. The complete workflow is orchestrated with Apache Airflow.
 
+### Key Features
+
+- Automated end-to-end data pipeline
 - AWS S3 data ingestion
-- Python data ingestion and validation layer
+- File and metadata validation
 - Upload to Databricks Unity Catalog Volumes
-- Medallion Architecture (Bronze → Silver → Gold)
+- Bronze, Silver, and Gold Medallion Architecture
 - PySpark and Delta Lake transformations
 - Star Schema implementation
 - Advanced SQL analytics
 - Interactive Power BI dashboard
 - Workflow orchestration with Apache Airflow
 
-#### Technologies
+### Technology Stack
 
 - Python
 - AWS S3
@@ -63,40 +85,57 @@ A production-inspired end-to-end data engineering project that demonstrates mode
 - SQL
 - Power BI
 
-🔗 **Repository:**  
-[AdventureWorks End-to-End Data Engineering Pipeline](YOUR_REPOSITORY_LINK)
+### Skills Demonstrated
+
+- Data Engineering
+- Cloud Data Pipelines
+- Python Development
+- Data Validation
+- PySpark
+- Delta Lake
+- Medallion Architecture
+- Star Schema Design
+- SQL Analytics
+- Workflow Automation
+- Apache Airflow
+- Business Intelligence
+
+### Repository
+
+🔗 **GitHub:**  
+YOUR_ADVENTUREWORKS_REPOSITORY_LINK
 
 ---
 
-# 🛠️ Skills Demonstrated
+# 🛠️ Core Skills
 
 - Data Engineering
-- ETL Pipeline Development
+- Data Analytics
+- Business Intelligence
+- ETL Development
 - Data Warehousing
 - Data Modeling
-- Star Schema Design
 - SQL Development
 - Python
 - PySpark
-- Delta Lake
 - AWS S3
 - Databricks
+- Delta Lake
 - Apache Airflow
-- Data Validation
-- Business Intelligence
 - Power BI
+- Data Validation
 - Advanced SQL Analytics
 
 ---
 
-# 📚 Technology Stack
+# 💻 Technology Stack
 
 - Python
 - SQL
 - SQL Server
-- PySpark
 - AWS S3
 - Databricks
+- PySpark
 - Delta Lake
 - Unity Catalog
 - Apache Airflow
@@ -106,15 +145,13 @@ A production-inspired end-to-end data engineering project that demonstrates mode
 
 # 👨‍💻 About Me
 
-I'm passionate about building scalable data solutions that transform raw data into meaningful business insights.
-
-My projects focus on applying industry best practices in **data engineering**, **ETL development**, **data warehousing**, **analytics**, and **business intelligence**, while working with modern cloud technologies and automation tools.
+I'm passionate about designing data solutions that transform raw data into valuable business insights. My projects focus on applying industry best practices in data engineering, analytics, automation, and business intelligence using modern cloud technologies and scalable architectures.
 
 Feel free to explore the repositories and connect with me on LinkedIn!
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 - **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
 - **GitHub:** https://github.com/YOUR-USERNAME
