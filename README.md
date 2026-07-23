@@ -107,51 +107,7 @@ YOUR_ADVENTUREWORKS_REPOSITORY_LINK
 
 ---
 
-# 🛠️ Core Skills
-
-- Data Engineering
-- Data Analytics
-- Business Intelligence
-- ETL Development
-- Data Warehousing
-- Data Modeling
-- SQL Development
-- Python
-- PySpark
-- AWS S3
-- Databricks
-- Delta Lake
-- Apache Airflow
-- Power BI
-- Data Validation
-- Advanced SQL Analytics
-
----
-
-# 💻 Technology Stack
-
-- Python
-- SQL
-- SQL Server
-- AWS S3
-- Databricks
-- PySpark
-- Delta Lake
-- Unity Catalog
-- Apache Airflow
-- Power BI
-
----
-
-# 👨‍💻 About Me
-
-I'm passionate about designing data solutions that transform raw data into valuable business insights. My projects focus on applying industry best practices in data engineering, analytics, automation, and business intelligence using modern cloud technologies and scalable architectures.
-
-Feel free to explore the repositories and connect with me on LinkedIn!
-
----
-
 # 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/YOUR-LINKEDIN
-- **GitHub:** https://github.com/YOUR-USERNAME
+- **LinkedIn:** https://www.linkedin.com/in/juan-david-guerrero-parada/?skipRedirect=true
+- **Email:** juangrp12@gmail.com
