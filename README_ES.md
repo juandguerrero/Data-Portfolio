@@ -57,7 +57,7 @@ El objetivo fue transformar datos fragmentados del marketplace en una solución 
 
 ### Repositorio
 
-[Ver Proyecto Olist Marketplace](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README.md)
+[Ver Proyecto Olist Marketplace](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README_ES.md)
 
 ---
 
@@ -103,7 +103,7 @@ El objetivo fue transformar datos operacionales de ventas en insights accionable
 
 ### Repositorio
 
-[Ver Proyecto AdventureWorks](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README.md)
+[Ver Proyecto AdventureWorks](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README_ES.md)
 
 ---
 
@@ -148,7 +148,7 @@ El proyecto conecta el recorrido completo del cliente:
 
 ### Repositorio
 
-[Ver Proyecto LearnLoop Marketing Analytics](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README.md)
+[Ver Proyecto LearnLoop Marketing Analytics](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README_ES.md)
 
 ---
 
