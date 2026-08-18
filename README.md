@@ -87,7 +87,7 @@ Transform fragmented data from a Brazilian e-commerce marketplace into an analyt
 
 ### 🔗 Repository
 
-➡️ [**View Full Olist Marketplace Project**](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README_ES.md)
+➡️ [**View Full Olist Marketplace Project**](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README.md)
 
 ---
 
@@ -165,7 +165,7 @@ Operational data was transformed into structured analytical datasets to support 
 
 ### 🔗 Repository
 
-➡️ [**View Full AdventureWorks Project**](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README_ES.md)
+➡️ [**View Full AdventureWorks Project**](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README.md)
 
 ---
 
@@ -254,7 +254,7 @@ This enables marketing performance to be evaluated using **actual customers and 
 
 ### 🔗 Repository
 
-➡️ [**View Full LearnLoop Project**](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README_ES.md)
+➡️ [**View Full LearnLoop Project**](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README.md)
 
 ---
 
