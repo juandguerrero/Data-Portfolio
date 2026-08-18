@@ -40,11 +40,7 @@ Transformar datos fragmentados de un marketplace brasileño de e-commerce en una
 
 ### 📊 Dashboard
 
-> 📸 **Vista Previa del Dashboard**
-
-<!-- Reemplazar con la imagen de tu dashboard:
-![Olist Dashboard](images/olist-dashboard.png)
--->
+![Olist Marketplace Dashboard](dashboards_olist/Dashboards.jpg)
 
 ### 🔎 Insights Clave
 
@@ -87,13 +83,19 @@ Construir una plataforma de analítica de ventas end-to-end para comprender:
 
 El proyecto transforma datos operacionales de ventas en datasets analíticos estructurados y dashboards de Business Intelligence.
 
-### 📊 Dashboard
+### 📊 Dashboards
 
-> 📸 **Vista Previa del Dashboard**
+#### Executive Sales Dashboard
 
-<!-- Reemplazar con la imagen de tu dashboard:
-![AdventureWorks Dashboard](images/adventureworks-dashboard.png)
--->
+![AdventureWorks Executive Sales Dashboard](dashboards_adventure_works/executive_sales_dashboard.png)
+
+#### Customer Segmentation
+
+![AdventureWorks Customer Segmentation](dashboards_adventure_works/customer_segmentation.png)
+
+#### Product Analytics
+
+![AdventureWorks Product Analytics](dashboards_adventure_works/product_analytics.png)
 
 ### 🔎 Insights Clave
 
@@ -137,13 +139,19 @@ El proyecto conecta el recorrido completo del cliente:
 
 Esto permite evaluar el rendimiento de marketing basándose en **clientes e ingresos en lugar de únicamente clics**.
 
-### 📊 Dashboard
+### 📊 Dashboards
 
-> 📸 **Vista Previa del Dashboard**
+#### Campaign Performance
 
-<!-- Reemplazar con la imagen de tu dashboard:
-![LearnLoop Dashboard](images/learnloop-dashboard.png)
--->
+![LearnLoop Campaign Performance](dashboards_learnloop/campaign_performance.jpg)
+
+#### Marketing Funnel
+
+![LearnLoop Marketing Funnel](dashboards_learnloop/marketing_funnel.jpg)
+
+#### Subscription & Customer Value
+
+![LearnLoop Subscription Customer Value](dashboards_learnloop/subscription_customer_value.jpg)
 
 ### 🔎 Insights Clave
 
