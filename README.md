@@ -1,272 +1,334 @@
 # 📊 Data Analytics Portfolio
 
-**SQL · Power BI · Tableau · Python · Excel · Business Intelligence**
+<div align="center">
 
-Hi! I'm **Juan David Guerrero**, a Data Analyst focused on transforming business data into **actionable insights that support better decisions**.
+### SQL · Power BI · Tableau · Python · Excel · Business Intelligence
 
-My portfolio includes end-to-end analytics projects across **e-commerce, sales, customer behavior, marketing, and logistics**, combining data analysis, visualization, and modern data platforms.
+**Transforming business data into actionable insights for better decision-making.**
+
+</div>
 
 ---
 
-## 🚀 Executive Summary
+## 👋 About This Portfolio
 
-This portfolio demonstrates my ability to work through the complete analytics lifecycle:
+Hi! I'm **Juan David Guerrero**, a Data Analyst with a background in Business Administration and a focus on **Business Intelligence, data analysis, and data-driven decision-making**.
+
+This portfolio brings together end-to-end projects across **e-commerce, sales, customers, marketing, and logistics**, using tools such as SQL, Power BI, Tableau, Python, and modern data platforms.
+
+### 🔄 Analytics Process
+
+<div align="center">
 
 **Business Problem → Data Preparation → Analysis → KPIs → Dashboard → Insights → Recommendations**
 
-### Featured Projects
-
-| Project | Business Focus | Main Tools |
-|---|---|---|
-| 🛒 **Olist Marketplace Analytics** | Sales, products & logistics | SQL Server · Power BI |
-| 🚲 **AdventureWorks Sales Analytics** | Sales & customer analytics | SQL · Power BI · Databricks |
-| 📈 **LearnLoop Marketing Analytics** | Marketing performance & funnel | SQL · Tableau · Snowflake · dbt |
-
-Across these projects, I analyze business performance, identify opportunities, and translate data into **clear recommendations for decision-makers**.
+</div>
 
 ---
 
-# 📂 Featured Projects
+# 📂 Projects
 
-## 🛒 Olist Marketplace Sales & Logistics Analytics
+| Project | Focus | Main Stack |
+|:---|:---|:---|
+| 🛒 **Olist Marketplace** | Sales · Products · Logistics | SQL Server · Power BI |
+| 🚲 **AdventureWorks** | Sales · Customers · Territories | SQL · Power BI · Databricks |
+| 📈 **LearnLoop** | Marketing · Funnel · Customers | SQL · Tableau · Snowflake · dbt |
+
+---
+
+# 🛒 Olist Marketplace Analytics
+
+### Sales & Logistics Analytics
 
 **SQL Server · SQL · Power BI · ETL · Data Warehousing**
 
 ### 🎯 Objective
 
-Transform fragmented Brazilian e-commerce marketplace data into an analytical solution for understanding:
+Transform fragmented data from a Brazilian e-commerce marketplace into an analytical solution to evaluate:
 
-**Revenue · Sales Trends · Products · Customers · Sellers · Delivery Performance**
-
-### 📊 Dashboard
-
-> 📸 **Dashboard Preview**
-
-<!-- Replace with your dashboard image:
-![Olist Dashboard](images/olist-dashboard.png)
--->
-
-### 🔎 Key Insights
-
-- 💰 **R$13.22M** in product revenue
-- 📦 **96,478** delivered orders
-- 🛒 **R$137.04** average order value
-- 📈 Orders increased approximately **140%** between Jan–Aug 2017 and Jan–Aug 2018
-- 🧴 **Health & Beauty** generated the highest category revenue at **R$1.23M**
-- 📍 **São Paulo generated 38.3% of total revenue**
-- 🚚 Average delivery time was **12 days**
-- ⚠️ **8.11% of delivered orders arrived late**
-
-### 💡 Business Recommendations
-
-- Protect and expand high-performing product categories
-- Investigate the main drivers of late deliveries
-- Explore growth opportunities outside highly concentrated geographic markets
-- Evaluate categories using both revenue and sales volume
-- Continuously monitor marketplace growth and changing order patterns
-
-### 🛠️ Skills Demonstrated
-
-`SQL` · `Power BI` · `Data Cleaning` · `ETL` · `Star Schema` · `Dimensional Modeling` · `KPI Analysis` · `Sales Analysis` · `Logistics Analytics`
-
-### 🔗 Project
-
-[View Full Olist Marketplace Project](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics)
+**Revenue · Sales · Products · Customers · Sellers · Delivery Performance**
 
 ---
 
-## 🚲 AdventureWorks Sales Analytics Platform
+## 📊 Dashboard
+
+<div align="center">
+
+<img src="dashboards_olist/Dashboards.jpg" alt="Olist Marketplace Dashboard" width="900">
+
+</div>
+
+---
+
+## 🔎 Key Insights
+
+| KPI / Finding | Result |
+|:---|:---|
+| 💰 Product Revenue | **R$13.22M** |
+| 📦 Delivered Orders | **96,478** |
+| 🛒 Average Order Value | **R$137.04** |
+| 📈 Order Growth | **~140%** |
+| 🧴 Leading Category | **Health & Beauty — R$1.23M** |
+| 📍 Main Market | **São Paulo — 38.3% of revenue** |
+| 🚚 Average Delivery Time | **12 days** |
+| ⚠️ Late Deliveries | **8.11%** |
+
+### 💡 Recommendations
+
+- Protect and expand the best-performing categories.
+- Investigate the main factors associated with delivery delays.
+- Explore growth opportunities outside highly concentrated markets.
+- Evaluate categories by combining **revenue and sales volume**.
+- Monitor marketplace evolution and changes in purchasing patterns.
+
+### 🛠️ Skills Demonstrated
+
+`SQL` `Power BI` `ETL` `Data Cleaning` `Star Schema` `Dimensional Modeling` `KPI Analysis` `Sales Analytics` `Logistics Analytics`
+
+### 🔗 Repository
+
+➡️ [**View Full Olist Marketplace Project**](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README_ES.md)
+
+---
+
+<br>
+
+# 🚲 AdventureWorks Sales Analytics
+
+### End-to-End Sales & Customer Analytics Platform
 
 **SQL · Power BI · Python · Databricks · PySpark · AWS S3 · Apache Airflow**
 
 ### 🎯 Objective
 
-Build an end-to-end sales analytics platform to understand:
+Build an end-to-end analytics platform to understand:
 
-**Sales Trends · Customers · Products · Territories · Salespeople · Retention**
+**Sales · Customers · Products · Territories · Salespeople · Retention**
 
-The project transforms operational sales data into structured analytical datasets and business intelligence dashboards.
-
-### 📊 Dashboard
-
-> 📸 **Dashboard Preview**
-
-<!-- Replace with your dashboard image:
-![AdventureWorks Dashboard](images/adventureworks-dashboard.png)
--->
-
-### 🔎 Key Insights
-
-- 💰 **Spring generated $29.52M**, making it the strongest sales season
-- 🚲 **Bikes generated approximately 87.7% of product-category revenue**
-- 🌎 **Southwest generated approximately $24M**, making it the strongest territory
-- 🏆 The highest-performing salesperson generated approximately **$10.3M**
-- 👥 RFM analysis identified **Champions, Loyal, Potential, New, At-Risk, and Lost Customers**
-- ⚠️ Churn analysis identified customer groups requiring different retention strategies
-
-### 💡 Business Recommendations
-
-- Protect and grow the core bicycle business
-- Increase cross-selling through accessories and clothing
-- Prioritize high-performing territories while investigating weaker markets
-- Use customer segmentation for targeted retention campaigns
-- Replicate practices from top-performing sales representatives
-- Align inventory and promotions with seasonal demand
-
-### 🛠️ Skills Demonstrated
-
-`SQL` · `Power BI` · `Python` · `Customer Analytics` · `RFM` · `Churn Analysis` · `CLV` · `Sales Analysis` · `Databricks` · `PySpark` · `Airflow`
-
-### 🔗 Project
-
-[View Full AdventureWorks Project](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform)
+Operational data was transformed into structured analytical datasets to support business analysis and Business Intelligence dashboards.
 
 ---
 
-## 📈 LearnLoop Marketing Analytics Platform
+## 📊 Executive Sales Dashboard
+
+<div align="center">
+
+<img src="dashboards_adventure_works/executive_sales_dashboard.png" alt="AdventureWorks Executive Sales Dashboard" width="900">
+
+</div>
+
+---
+
+## 👥 Customer Segmentation
+
+<div align="center">
+
+<img src="dashboards_adventure_works/customer_segmentation.png" alt="AdventureWorks Customer Segmentation" width="900">
+
+</div>
+
+---
+
+## 🚲 Product Analytics
+
+<div align="center">
+
+<img src="dashboards_adventure_works/product_analytics.png" alt="AdventureWorks Product Analytics" width="900">
+
+</div>
+
+---
+
+## 🔎 Key Insights
+
+| Area | Finding |
+|:---|:---|
+| 💰 Seasonality | **Spring generated $29.52M** |
+| 🚲 Products | **Bikes = ~87.7% of revenue** |
+| 🌎 Territories | **Southwest generated ~$24M** |
+| 🏆 Sales | **Top salesperson generated ~$10.3M** |
+| 👥 Customers | Customer segmentation using **RFM** |
+| ⚠️ Retention | Identification of customer segments at risk of **churn** |
+
+### 💡 Recommendations
+
+- Protect and continue developing the core bicycle business.
+- Increase **cross-selling** opportunities through accessories and clothing.
+- Prioritize high-performing territories and investigate underperforming markets.
+- Use RFM segmentation for targeted retention campaigns.
+- Analyze and replicate the practices of top-performing salespeople.
+- Align inventory and promotions with seasonal demand patterns.
+
+### 🛠️ Skills Demonstrated
+
+`SQL` `Power BI` `Python` `RFM` `Churn Analysis` `CLV` `Sales Analytics` `Databricks` `PySpark` `Airflow`
+
+### 🔗 Repository
+
+➡️ [**View Full AdventureWorks Project**](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README_ES.md)
+
+---
+
+<br>
+
+# 📈 LearnLoop Marketing Analytics
+
+### End-to-End Marketing Analytics Platform
 
 **SQL · Tableau · Snowflake · dbt · Python · Airflow · AWS S3**
 
 ### 🎯 Objective
 
-Build an end-to-end marketing analytics platform connecting advertising, website, CRM, subscription, and revenue data.
+Build a marketing analytics platform that connects data from:
 
-The project connects the complete customer journey:
+**Advertising · Website · CRM · Subscriptions · Courses · Revenue**
+
+The model connects the complete customer journey:
+
+<div align="center">
 
 **Ad Spend → Sessions → Leads → MQLs → SQLs → Customers → Subscriptions → Revenue**
 
-This makes it possible to evaluate marketing performance based on **customers and revenue rather than clicks alone**.
+</div>
 
-### 📊 Dashboard
+This enables marketing performance to be evaluated using **actual customers and revenue**, rather than limiting the analysis to metrics such as clicks or impressions.
 
-> 📸 **Dashboard Preview**
+---
 
-<!-- Replace with your dashboard image:
-![LearnLoop Dashboard](images/learnloop-dashboard.png)
--->
+## 📊 Campaign Performance
 
-### 🔎 Key Insights
+<div align="center">
 
-- 💵 **$1.11M** in advertising spend
-- 💰 **$373.5K** in attributed revenue
-- 📉 **0.34x overall ROAS**
-- 👤 **$116.08 CAC**
-- 🌐 **740,283** website sessions
-- 🎯 **93,276** leads
-- 👥 **9,592** customers
-- 🔄 **~10.3% Lead-to-Customer conversion**
-- 📊 **~1.3% Session-to-Customer conversion**
-- 🎓 **16,628** course enrollments
+<img src="dashboards_learnloop/campaign_performance.jpg" alt="LearnLoop Campaign Performance Dashboard" width="900">
 
-### 💡 Business Recommendations
+</div>
 
-- Reallocate budget toward higher-ROAS campaigns
-- Establish campaign-level ROAS and CAC targets
-- Improve funnel conversion before increasing traffic acquisition
-- Evaluate CAC together with customer lifetime value
-- Optimize marketing investment based on customers and revenue rather than clicks alone
+---
+
+## 🎯 Marketing Funnel
+
+<div align="center">
+
+<img src="dashboards_learnloop/marketing_funnel.jpg" alt="LearnLoop Marketing Funnel Dashboard" width="900">
+
+</div>
+
+---
+
+## 💰 Subscription & Customer Value
+
+<div align="center">
+
+<img src="dashboards_learnloop/subscription_customer_value.jpg" alt="LearnLoop Subscription Customer Value Dashboard" width="900">
+
+</div>
+
+---
+
+## 🔎 Key Insights
+
+| KPI | Result |
+|:---|---:|
+| 💵 Ad Spend | **$1.11M** |
+| 💰 Revenue | **$373.5K** |
+| 📉 ROAS | **0.34x** |
+| 👤 CAC | **$116.08** |
+| 🌐 Website Sessions | **740,283** |
+| 🎯 Leads | **93,276** |
+| 👥 Customers | **9,592** |
+| 🔄 Lead → Customer | **~10.3%** |
+| 📊 Session → Customer | **~1.3%** |
+| 🎓 Course Enrollments | **16,628** |
+
+### 💡 Recommendations
+
+- Reallocate budget toward campaigns with higher **ROAS**.
+- Establish **ROAS and CAC** targets by campaign.
+- Improve funnel conversion before increasing traffic acquisition.
+- Evaluate CAC alongside **Customer Lifetime Value**.
+- Optimize investment using **customers and revenue** as the primary business metrics.
 
 ### 🛠️ Skills Demonstrated
 
-`SQL` · `Tableau` · `Marketing Analytics` · `Funnel Analysis` · `ROAS` · `CAC` · `CLV` · `MRR` · `ARR` · `Snowflake` · `dbt` · `Python`
+`SQL` `Tableau` `Marketing Analytics` `Funnel Analysis` `ROAS` `CAC` `CLV` `MRR` `ARR` `Snowflake` `dbt` `Python`
 
-### 🔗 Project
+### 🔗 Repository
 
-[View Full LearnLoop Marketing Analytics Project](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform)
-
----
-
-# 🛠️ Technical Skills
-
-| Area | Technologies & Concepts |
-|---|---|
-| **Data Analysis** | SQL · Python · Excel |
-| **Business Intelligence** | Power BI · Tableau |
-| **Databases & Warehousing** | SQL Server · Snowflake |
-| **Data Modeling** | Star Schema · Dimensional Modeling |
-| **Marketing Analytics** | ROAS · CAC · CLV · Funnel Analysis |
-| **Customer Analytics** | RFM · Churn · Segmentation |
-| **Data Transformation** | SQL · dbt · PySpark |
-| **Cloud & Data Platforms** | AWS S3 · Databricks |
-| **Orchestration** | Apache Airflow |
-| **Version Control** | Git · GitHub |
+➡️ [**View Full LearnLoop Project**](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README_ES.md)
 
 ---
 
-# 📊 Analytics Experience
+<br>
 
-My portfolio covers several business analytics areas:
+# 🛠️ Technical Stack
 
-### Sales & Revenue
-
-- Revenue and sales trends
-- Growth analysis
-- Product performance
-- Territory performance
-- Seller and salesperson performance
-
-### Customer Analytics
-
-- Customer segmentation
-- RFM analysis
-- Customer lifetime value
-- Churn analysis
-- Retention opportunities
-
-### Marketing Analytics
-
-- Marketing funnels
-- ROAS
-- CAC
-- Conversion rates
-- Campaign performance
-- Marketing attribution
-
-### Business Intelligence
-
-- KPI development
-- Dashboard development
-- Data visualization
-- Dimensional modeling
-- Business recommendations
+| Area | Technologies |
+|:---|:---|
+| 📊 **Data Analysis** | SQL · Python · Excel |
+| 📈 **Business Intelligence** | Power BI · Tableau |
+| 🗄️ **Databases & Warehousing** | SQL Server · Snowflake |
+| 🧱 **Data Modeling** | Star Schema · Dimensional Modeling |
+| 📣 **Marketing Analytics** | ROAS · CAC · CLV · Funnel Analysis |
+| 👥 **Customer Analytics** | RFM · Churn · Segmentation |
+| ⚙️ **Data Transformation** | SQL · dbt · PySpark |
+| ☁️ **Cloud & Data Platforms** | AWS S3 · Databricks |
+| 🔄 **Orchestration** | Apache Airflow |
+| 🔧 **Version Control** | Git · GitHub |
 
 ---
 
-# 🎯 What I Bring as a Data Analyst
+# 🎯 My Approach as a Data Analyst
 
-I approach analytics as more than building dashboards or writing queries.
+For me, analytics does not end with building a dashboard or writing a SQL query.
 
-My goal is to use data to answer four fundamental business questions:
+The goal is to turn data into answers to four business questions:
 
-> **What is happening?**  
-> **Why is it happening?**  
-> **Where are the opportunities?**  
-> **What should the business do next?**
+<div align="center">
 
-The technical infrastructure supports that objective, while my primary focus remains on **data analysis, business intelligence, visualization, and data-driven decision-making**.
+### What is happening?
+
+### Why is it happening?
+
+### Where are the opportunities?
+
+### What should the business do next?
+
+</div>
+
+My approach combines **data analysis, business knowledge, Business Intelligence, and data visualization** to transform information into actionable decisions.
 
 ---
 
 # 👨‍💻 About Me
 
-I'm a **Data Analyst with a background in Business Administration**, combining business understanding with technical analytics skills.
+I am a **Data Analyst with a background in Business Administration**, combining business knowledge with technical analytics skills.
 
-I work with **SQL, Power BI, Tableau, Excel, and Python**, and I have also built projects using modern analytics technologies including **Snowflake, dbt, Databricks, PySpark, AWS S3, and Apache Airflow**.
+I primarily work with:
 
-I'm particularly interested in opportunities involving:
+**SQL · Power BI · Tableau · Excel · Python**
 
-**Data Analytics · Business Intelligence · Marketing Analytics · Commercial Analytics**
+I have also developed solutions using:
+
+**Snowflake · dbt · Databricks · PySpark · AWS S3 · Apache Airflow**
+
+### 🎯 Areas of Interest
+
+`Data Analytics` · `Business Intelligence` · `Marketing Analytics` · `Commercial Analytics`
 
 ---
 
-# 📫 Let's Connect
+# 📫 Contact
 
-**Juan David Guerrero**  
+<div align="center">
+
+### Juan David Guerrero
+
 **Data Analyst**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/)  
-📧 **juangrp12@gmail.com**
+[LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/) · **juangrp12@gmail.com**
 
----
+<br>
 
-⭐ Feel free to explore the repositories above to see the complete analytical process, dashboards, SQL analysis, data models, insights, and business recommendations.
+⭐ **Explore the projects to see dashboards, SQL analysis, data models, insights, and business recommendations.**
+
+</div>
