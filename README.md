@@ -1,10 +1,10 @@
-# 📊 Financial and operational analytics portfolio
+# 📊 Financial Operations & Business Analytics Portfolio
 
 <div align="center">
 
-### SQL · Power BI · Tableau · Python · Excel · Business Intelligence
+### Excel · Financial Analysis · SQL · Power BI · Tableau · Python
 
-**Transforming business data into actionable insights for better decision-making.**
+**Combining financial operations experience with data analysis to improve accuracy, reporting, and decision-making.**
 
 </div>
 
@@ -12,41 +12,60 @@
 
 ## 👋 About This Portfolio
 
-Hi! I'm **Juan David Guerrero**, a Data Analyst with a background in Business Administration and a focus on **Business Intelligence, data analysis, and data-driven decision-making**.
+Hi! I'm **Juan David Guerrero**, an Accounting and Financial Operations professional with over three years of experience supporting:
 
-This portfolio brings together end-to-end projects across **e-commerce, sales, customers, marketing, and logistics**, using tools such as SQL, Power BI, Tableau, Python, and modern data platforms.
+**Invoice Processing · Accounts Payable · Accounts Receivable · Bank Reconciliations · Financial Data Validation · Administrative Operations**
 
-### 🔄 Analytics Process
+I have experience working with **U.S.-based property management accounting operations**, using tools such as **Excel, AppFolio, Contapyme, HubSpot, Jira, and Slack**.
+
+Alongside my professional accounting experience, I have developed analytical skills in **SQL, Power BI, Tableau, Python, and data modeling**. This portfolio presents independent projects in which I use those tools to organize, validate, analyze, and visualize financial, commercial, customer, and operational information.
+
+My objective is to combine accounting knowledge, operational experience, and analytical capabilities to support:
+
+- Accurate financial processes and reporting
+- Invoice and transaction validation
+- Reconciliations and discrepancy analysis
+- Accounts payable and accounts receivable operations
+- Process monitoring and performance measurement
+- Data-driven operational decisions
+
+---
+
+## 🔄 My Analytical Approach
 
 <div align="center">
 
-**Business Problem → Data Preparation → Analysis → KPIs → Dashboard → Insights → Recommendations**
+**Business or Financial Question → Data Validation → Analysis → KPIs → Reporting → Insights → Recommendations**
 
 </div>
 
 ---
 
-# 📂 Projects
+# 📂 Portfolio Projects
 
-| Project | Focus | Main Stack |
+| Project | Business Focus | Main Tools |
 |:---|:---|:---|
-| 🛒 **Olist Marketplace** | Sales · Products · Logistics | SQL Server · Power BI |
-| 🚲 **AdventureWorks** | Sales · Customers · Territories | SQL · Power BI · Databricks |
-| 📈 **LearnLoop** | Marketing · Funnel · Customers | SQL · Tableau · Snowflake · dbt |
+| 🛒 **Olist Marketplace** | Revenue · Sales · Orders · Logistics | Excel · SQL Server · Power BI |
+| 🚲 **AdventureWorks** | Sales · Customers · Products · Performance | SQL · Power BI · Python |
+| 📈 **LearnLoop** | Marketing Spend · Revenue · Customers · Subscriptions | SQL · Tableau · Snowflake · dbt |
+
+> These are independent portfolio projects created to demonstrate my analytical and reporting capabilities. They complement my professional experience in accounting and financial operations.
 
 ---
 
 # 🛒 Olist Marketplace Analytics
 
-### Sales & Logistics Analytics
+### Revenue, Sales and Operational Performance Analysis
 
-**SQL Server · SQL · Power BI · ETL · Data Warehousing**
+**SQL Server · SQL · Power BI · ETL · Data Validation**
 
 ### 🎯 Objective
 
-Transform fragmented data from a Brazilian e-commerce marketplace into an analytical solution to evaluate:
+Transform fragmented marketplace data into a structured analytical solution for evaluating:
 
-**Revenue · Sales · Products · Customers · Sellers · Delivery Performance**
+**Revenue · Orders · Products · Customers · Sellers · Delivery Performance**
+
+The project focuses on consolidating transactional information, validating data quality, reconciling revenue figures, and creating management dashboards for financial and operational monitoring.
 
 ---
 
@@ -60,7 +79,7 @@ Transform fragmented data from a Brazilian e-commerce marketplace into an analyt
 
 ---
 
-## 🔎 Key Insights
+## 🔎 Key Results
 
 | KPI / Finding | Result |
 |:---|:---|
@@ -73,17 +92,18 @@ Transform fragmented data from a Brazilian e-commerce marketplace into an analyt
 | 🚚 Average Delivery Time | **12 days** |
 | ⚠️ Late Deliveries | **8.11%** |
 
-### 💡 Recommendations
+### 💡 Business Recommendations
 
-- Protect and expand the best-performing categories.
-- Investigate the main factors associated with delivery delays.
-- Explore growth opportunities outside highly concentrated markets.
-- Evaluate categories by combining **revenue and sales volume**.
-- Monitor marketplace evolution and changes in purchasing patterns.
+- Monitor revenue and order volume by product category.
+- Investigate the operational causes of late deliveries.
+- Compare categories using both revenue and transaction volume.
+- Explore opportunities outside highly concentrated geographic markets.
+- Track order and delivery trends to identify changes in operational performance.
+- Establish recurring controls to detect inconsistencies in transactional data.
 
-### 🛠️ Skills Demonstrated
+### 🛠️ Capabilities Demonstrated
 
-`SQL` `Power BI` `ETL` `Data Cleaning` `Star Schema` `Dimensional Modeling` `KPI Analysis` `Sales Analytics` `Logistics Analytics`
+`Revenue Analysis` `Transaction Validation` `SQL` `Power BI` `ETL` `Data Cleaning` `Reconciliation Controls` `KPI Reporting` `Sales Analysis` `Operational Analysis`
 
 ### 🔗 Repository
 
@@ -93,19 +113,19 @@ Transform fragmented data from a Brazilian e-commerce marketplace into an analyt
 
 <br>
 
-# 🚲 AdventureWorks Sales Analytics
+# 🚲 AdventureWorks Business Analytics
 
-### End-to-End Sales & Customer Analytics Platform
+### Sales, Customer and Performance Reporting
 
 **SQL · Power BI · Python · Databricks · PySpark · AWS S3 · Apache Airflow**
 
 ### 🎯 Objective
 
-Build an end-to-end analytics platform to understand:
+Build an end-to-end reporting solution to analyze:
 
-**Sales · Customers · Products · Territories · Salespeople · Retention**
+**Sales · Revenue · Customers · Products · Territories · Salespeople · Retention**
 
-Operational data was transformed into structured analytical datasets to support business analysis and Business Intelligence dashboards.
+Operational and transactional data was transformed into structured datasets to support performance reporting, business analysis, and management decision-making.
 
 ---
 
@@ -139,29 +159,29 @@ Operational data was transformed into structured analytical datasets to support 
 
 ---
 
-## 🔎 Key Insights
+## 🔎 Key Results
 
 | Area | Finding |
 |:---|:---|
 | 💰 Seasonality | **Spring generated $29.52M** |
-| 🚲 Products | **Bikes = ~87.7% of revenue** |
-| 🌎 Territories | **Southwest generated ~$24M** |
-| 🏆 Sales | **Top salesperson generated ~$10.3M** |
-| 👥 Customers | Customer segmentation using **RFM** |
-| ⚠️ Retention | Identification of customer segments at risk of **churn** |
+| 🚲 Products | **Bikes represented ~87.7% of revenue** |
+| 🌎 Territories | **Southwest generated approximately $24M** |
+| 🏆 Sales Performance | **Top salesperson generated approximately $10.3M** |
+| 👥 Customers | Customers classified through **RFM segmentation** |
+| ⚠️ Retention | Customer groups with potential churn risk were identified |
 
-### 💡 Recommendations
+### 💡 Business Recommendations
 
 - Protect and continue developing the core bicycle business.
-- Increase **cross-selling** opportunities through accessories and clothing.
+- Increase cross-selling opportunities through accessories and clothing.
 - Prioritize high-performing territories and investigate underperforming markets.
-- Use RFM segmentation for targeted retention campaigns.
-- Analyze and replicate the practices of top-performing salespeople.
-- Align inventory and promotions with seasonal demand patterns.
+- Use customer segmentation to support retention initiatives.
+- Compare sales performance across representatives and territories.
+- Align inventory and commercial planning with seasonal demand.
 
-### 🛠️ Skills Demonstrated
+### 🛠️ Capabilities Demonstrated
 
-`SQL` `Power BI` `Python` `RFM` `Churn Analysis` `CLV` `Sales Analytics` `Databricks` `PySpark` `Airflow`
+`Financial Reporting` `Revenue Analysis` `Performance Analysis` `SQL` `Power BI` `Python` `Data Validation` `RFM` `Customer Segmentation` `KPI Monitoring`
 
 ### 🔗 Repository
 
@@ -171,27 +191,27 @@ Operational data was transformed into structured analytical datasets to support 
 
 <br>
 
-# 📈 LearnLoop Marketing Analytics
+# 📈 LearnLoop Revenue & Marketing Analytics
 
-### End-to-End Marketing Analytics Platform
+### Marketing Investment, Customer and Revenue Analysis
 
 **SQL · Tableau · Snowflake · dbt · Python · Airflow · AWS S3**
 
 ### 🎯 Objective
 
-Build a marketing analytics platform that connects data from:
+Build an analytical platform connecting information from:
 
-**Advertising · Website · CRM · Subscriptions · Courses · Revenue**
+**Advertising · Website Activity · CRM · Customers · Subscriptions · Revenue**
 
-The model connects the complete customer journey:
+The model connects the customer and revenue journey:
 
 <div align="center">
 
-**Ad Spend → Sessions → Leads → MQLs → SQLs → Customers → Subscriptions → Revenue**
+**Marketing Spend → Sessions → Leads → Customers → Subscriptions → Revenue**
 
 </div>
 
-This enables marketing performance to be evaluated using **actual customers and revenue**, rather than limiting the analysis to metrics such as clicks or impressions.
+This makes it possible to evaluate marketing investment using customers, subscriptions, and recognized revenue—not only activity metrics such as clicks and impressions.
 
 ---
 
@@ -205,7 +225,7 @@ This enables marketing performance to be evaluated using **actual customers and 
 
 ---
 
-## 🎯 Marketing Funnel
+## 🎯 Customer Acquisition Funnel
 
 <div align="center">
 
@@ -225,32 +245,33 @@ This enables marketing performance to be evaluated using **actual customers and 
 
 ---
 
-## 🔎 Key Insights
+## 🔎 Key Results
 
 | KPI | Result |
 |:---|---:|
-| 💵 Ad Spend | **$1.11M** |
-| 💰 Revenue | **$373.5K** |
-| 📉 ROAS | **0.34x** |
-| 👤 CAC | **$116.08** |
+| 💵 Marketing Spend | **$1.11M** |
+| 💰 Attributed Revenue | **$373.5K** |
+| 📉 Return on Ad Spend | **0.34x** |
+| 👤 Customer Acquisition Cost | **$116.08** |
 | 🌐 Website Sessions | **740,283** |
 | 🎯 Leads | **93,276** |
 | 👥 Customers | **9,592** |
-| 🔄 Lead → Customer | **~10.3%** |
-| 📊 Session → Customer | **~1.3%** |
+| 🔄 Lead-to-Customer Conversion | **~10.3%** |
+| 📊 Session-to-Customer Conversion | **~1.3%** |
 | 🎓 Course Enrollments | **16,628** |
 
-### 💡 Recommendations
+### 💡 Business Recommendations
 
-- Reallocate budget toward campaigns with higher **ROAS**.
-- Establish **ROAS and CAC** targets by campaign.
-- Improve funnel conversion before increasing traffic acquisition.
-- Evaluate CAC alongside **Customer Lifetime Value**.
-- Optimize investment using **customers and revenue** as the primary business metrics.
+- Reallocate spending toward campaigns with stronger revenue performance.
+- Define return and acquisition-cost targets for each campaign.
+- Improve customer conversion before increasing acquisition spending.
+- Evaluate acquisition costs in relation to customer lifetime value.
+- Use customers and revenue as the principal measures of investment performance.
+- Reconcile information across advertising, CRM, subscription, and revenue sources.
 
-### 🛠️ Skills Demonstrated
+### 🛠️ Capabilities Demonstrated
 
-`SQL` `Tableau` `Marketing Analytics` `Funnel Analysis` `ROAS` `CAC` `CLV` `MRR` `ARR` `Snowflake` `dbt` `Python`
+`Spend Analysis` `Revenue Analysis` `Financial KPIs` `Data Reconciliation` `SQL` `Tableau` `Funnel Analysis` `ROAS` `CAC` `CLV` `MRR` `ARR`
 
 ### 🔗 Repository
 
@@ -260,60 +281,59 @@ This enables marketing performance to be evaluated using **actual customers and 
 
 <br>
 
-# 🛠️ Technical Stack
+# 🛠️ Professional and Analytical Toolkit
 
-| Area | Technologies |
+| Area | Skills and Technologies |
 |:---|:---|
-| 📊 **Data Analysis** | SQL · Python · Excel |
+| 💳 **Financial Operations** | Accounts Payable · Accounts Receivable · Invoice Processing · Bank Reconciliations |
+| ✅ **Financial Controls** | Transaction Validation · Discrepancy Identification · Documentation · Deadline Monitoring |
+| 🏢 **Accounting Systems** | AppFolio · Contapyme |
+| 📊 **Analysis and Reporting** | Excel · SQL · Python |
 | 📈 **Business Intelligence** | Power BI · Tableau |
-| 🗄️ **Databases & Warehousing** | SQL Server · Snowflake |
-| 🧱 **Data Modeling** | Star Schema · Dimensional Modeling |
-| 📣 **Marketing Analytics** | ROAS · CAC · CLV · Funnel Analysis |
-| 👥 **Customer Analytics** | RFM · Churn · Segmentation |
+| 🗄️ **Databases and Warehousing** | SQL Server · Snowflake |
+| 🧱 **Data Organization** | Data Cleaning · Star Schema · Dimensional Modeling |
 | ⚙️ **Data Transformation** | SQL · dbt · PySpark |
-| ☁️ **Cloud & Data Platforms** | AWS S3 · Databricks |
-| 🔄 **Orchestration** | Apache Airflow |
+| ☁️ **Data Platforms** | AWS S3 · Databricks |
+| 🔄 **Workflow and Collaboration** | Jira · HubSpot · Slack · Apache Airflow |
 | 🔧 **Version Control** | Git · GitHub |
 
 ---
 
-# 🎯 My Approach as a Data Analyst
+# 🎯 How Analytics Supports My Financial Operations Profile
 
-For me, analytics does not end with building a dashboard or writing a SQL query.
+My professional foundation is in **accounting and financial operations**. My analytical training strengthens that foundation by helping me work with financial and operational information more effectively.
 
-The goal is to turn data into answers to four business questions:
+I use an analytical approach to:
 
-<div align="center">
+- Review large volumes of transactional data
+- Validate invoices, payments, and accounting records
+- Identify missing, duplicated, or inconsistent information
+- Investigate discrepancies and their possible causes
+- Monitor financial and operational KPIs
+- Build clear reports for management and other stakeholders
+- Document findings and support process improvements
 
-### What is happening?
-
-### Why is it happening?
-
-### Where are the opportunities?
-
-### What should the business do next?
-
-</div>
-
-My approach combines **data analysis, business knowledge, Business Intelligence, and data visualization** to transform information into actionable decisions.
+For me, analytics is not limited to building dashboards or writing SQL queries. Its practical value lies in improving the **accuracy, visibility, and control of business operations**.
 
 ---
 
 # 👨‍💻 About Me
 
-I am a **Data Analyst with a background in Business Administration**, combining business knowledge with technical analytics skills.
+I am an **Accounting and Financial Operations professional** with over three years of experience in invoice processing, accounts payable, bank reconciliations, financial data validation, and administrative support.
 
-I primarily work with:
+I have worked with **U.S.-based property management accounting operations** and have experience using:
 
-**SQL · Power BI · Tableau · Excel · Python**
+**Excel · AppFolio · Contapyme · HubSpot · Jira · Slack**
 
-I have also developed solutions using:
+I also have analytical knowledge of:
 
-**Snowflake · dbt · Databricks · PySpark · AWS S3 · Apache Airflow**
+**SQL · Power BI · Tableau · Python · Snowflake · dbt · Databricks**
 
-### 🎯 Areas of Interest
+I am seeking opportunities in:
 
-`Data Analytics` · `Business Intelligence` · `Marketing Analytics` · `Commercial Analytics`
+`Accounts Payable` · `Accounts Receivable` · `Billing` · `Invoice Processing` · `Accounting Operations` · `Financial Operations`
+
+I am particularly interested in positions where I can combine financial operations experience with reporting, data validation, process control, and analytical problem-solving.
 
 ---
 
@@ -323,12 +343,14 @@ I have also developed solutions using:
 
 ### Juan David Guerrero
 
-**Data Analyst**
+**Accounting & Financial Operations Professional**
 
-[LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/) · **juangrp12@gmail.com**
+Bucaramanga, Colombia
+
+[LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/) · [GitHub](https://github.com/juandguerrero) · **juangrp12@gmail.com**
 
 <br>
 
-⭐ **Explore the projects to see dashboards, SQL analysis, data models, insights, and business recommendations.**
+⭐ **Explore the projects to see examples of financial analysis, data validation, KPI reporting, dashboards, and business recommendations.**
 
 </div>
