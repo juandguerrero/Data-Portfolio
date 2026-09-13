@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio
+# 📊 Financial and operational analytics portfolio
 
 <div align="center">
 
