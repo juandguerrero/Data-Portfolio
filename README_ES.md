@@ -1,52 +1,71 @@
-# 📊 Portafolio de Análisis de Datos
+# 📊 Portafolio de Operaciones Financieras y Analítica de Negocios
 
 <div align="center">
 
-### SQL · Power BI · Tableau · Python · Excel · Business Intelligence
+### Excel · Análisis Financiero · SQL · Power BI · Tableau · Python
 
-**Transformando datos de negocio en insights accionables para una mejor toma de decisiones.**
+**Combinando experiencia en operaciones financieras con análisis de datos para mejorar la precisión, los reportes y la toma de decisiones.**
 
 </div>
 
 ---
 
-## 👋 Sobre este portafolio
+## 👋 Acerca de este portafolio
 
-¡Hola! Soy **Juan David Guerrero**, Analista de Datos con formación en Administración de Empresas y enfoque en **Business Intelligence, análisis de datos y toma de decisiones basada en datos**.
+¡Hola! Soy **Juan David Guerrero**, profesional de Contabilidad y Operaciones Financieras con más de tres años de experiencia apoyando procesos de:
 
-Este portafolio reúne proyectos end-to-end en **e-commerce, ventas, clientes, marketing y logística**, utilizando herramientas como SQL, Power BI, Tableau, Python y plataformas modernas de datos.
+**Procesamiento de Facturas · Cuentas por Pagar · Cuentas por Cobrar · Conciliaciones Bancarias · Validación de Datos Financieros · Operaciones Administrativas**
 
-### 🔄 Proceso Analítico
+Tengo experiencia trabajando en **operaciones contables de administración de propiedades en Estados Unidos**, utilizando herramientas como **Excel, AppFolio, Contapyme, HubSpot, Jira y Slack**.
+
+Además de mi experiencia profesional en contabilidad, he desarrollado habilidades analíticas en **SQL, Power BI, Tableau, Python y modelado de datos**. Este portafolio presenta proyectos independientes en los que utilizo estas herramientas para organizar, validar, analizar y visualizar información financiera, comercial, operativa y de clientes.
+
+Mi objetivo es combinar conocimientos contables, experiencia operativa y capacidades analíticas para apoyar:
+
+- Procesos financieros y reportes precisos
+- Validación de facturas y transacciones
+- Conciliaciones y análisis de discrepancias
+- Operaciones de cuentas por pagar y cuentas por cobrar
+- Monitoreo de procesos y medición del desempeño
+- Decisiones operativas basadas en datos
+
+---
+
+## 🔄 Mi enfoque analítico
 
 <div align="center">
 
-**Problema de Negocio → Preparación de Datos → Análisis → KPIs → Dashboard → Insights → Recomendaciones**
+**Pregunta Financiera o de Negocio → Validación de Datos → Análisis → KPI → Reportes → Hallazgos → Recomendaciones**
 
 </div>
 
 ---
 
-# 📂 Proyectos
+# 📂 Proyectos del portafolio
 
-| Proyecto | Enfoque | Stack Principal |
+| Proyecto | Enfoque de Negocio | Herramientas Principales |
 |:---|:---|:---|
-| 🛒 **Olist Marketplace** | Ventas · Productos · Logística | SQL Server · Power BI |
-| 🚲 **AdventureWorks** | Ventas · Clientes · Territorios | SQL · Power BI · Databricks |
-| 📈 **LearnLoop** | Marketing · Funnel · Clientes | SQL · Tableau · Snowflake · dbt |
+| 🛒 **Olist Marketplace** | Ingresos · Ventas · Pedidos · Logística | Excel · SQL Server · Power BI |
+| 🚲 **AdventureWorks** | Ventas · Clientes · Productos · Desempeño | SQL · Power BI · Python |
+| 📈 **LearnLoop** | Inversión en Marketing · Ingresos · Clientes · Suscripciones | SQL · Tableau · Snowflake · dbt |
+
+> Estos son proyectos independientes de portafolio creados para demostrar mis capacidades analíticas y de elaboración de reportes. Complementan mi experiencia profesional en contabilidad y operaciones financieras.
 
 ---
 
-# 🛒 Olist Marketplace Analytics
+# 🛒 Analítica de Olist Marketplace
 
-### Sales & Logistics Analytics
+### Análisis de Ingresos, Ventas y Desempeño Operativo
 
-**SQL Server · SQL · Power BI · ETL · Data Warehousing**
+**SQL Server · SQL · Power BI · ETL · Validación de Datos**
 
 ### 🎯 Objetivo
 
-Transformar datos fragmentados de un marketplace brasileño de e-commerce en una solución analítica para evaluar:
+Transformar datos fragmentados de un marketplace en una solución analítica estructurada para evaluar:
 
-**Ingresos · Ventas · Productos · Clientes · Vendedores · Rendimiento de Entregas**
+**Ingresos · Pedidos · Productos · Clientes · Vendedores · Desempeño de Entregas**
+
+El proyecto se enfoca en consolidar información transaccional, validar la calidad de los datos, conciliar cifras de ingresos y crear dashboards de gestión para el monitoreo financiero y operativo.
 
 ---
 
@@ -54,266 +73,267 @@ Transformar datos fragmentados de un marketplace brasileño de e-commerce en una
 
 <div align="center">
 
-<img src="dashboards_olist/Dashboards.jpg" alt="Olist Marketplace Dashboard" width="900">
+<img src="dashboards_olist/Dashboards.jpg" alt="Dashboard de Olist Marketplace" width="900">
 
 </div>
 
 ---
 
-## 🔎 Principales Insights
+## 🔎 Resultados principales
 
 | KPI / Hallazgo | Resultado |
 |:---|:---|
-| 💰 Ingresos por productos | **R$13.22M** |
-| 📦 Pedidos entregados | **96,478** |
-| 🛒 Valor promedio por pedido | **R$137.04** |
-| 📈 Crecimiento de pedidos | **~140%** |
-| 🧴 Categoría líder | **Salud y Belleza — R$1.23M** |
-| 📍 Principal mercado | **São Paulo — 38.3% de ingresos** |
-| 🚚 Tiempo promedio de entrega | **12 días** |
-| ⚠️ Pedidos entregados tarde | **8.11%** |
+| 💰 Ingresos por Productos | **R$13.22M** |
+| 📦 Pedidos Entregados | **96,478** |
+| 🛒 Valor Promedio por Pedido | **R$137.04** |
+| 📈 Crecimiento de Pedidos | **~140%** |
+| 🧴 Categoría Principal | **Salud y Belleza — R$1.23M** |
+| 📍 Mercado Principal | **São Paulo — 38.3% de los ingresos** |
+| 🚚 Tiempo Promedio de Entrega | **12 días** |
+| ⚠️ Entregas Tardías | **8.11%** |
 
-### 💡 Recomendaciones
+### 💡 Recomendaciones de negocio
 
-- Proteger y expandir las categorías con mejor desempeño.
-- Investigar los principales factores asociados a retrasos en las entregas.
-- Explorar oportunidades de crecimiento fuera de los mercados con alta concentración.
-- Evaluar categorías combinando **ingresos y volumen de ventas**.
-- Monitorear la evolución del marketplace y los cambios en los patrones de compra.
+- Monitorear los ingresos y el volumen de pedidos por categoría de producto.
+- Investigar las causas operativas de las entregas tardías.
+- Comparar las categorías utilizando tanto los ingresos como el volumen de transacciones.
+- Explorar oportunidades fuera de los mercados con mayor concentración geográfica.
+- Dar seguimiento a las tendencias de pedidos y entregas para identificar cambios en el desempeño operativo.
+- Establecer controles recurrentes para detectar inconsistencias en los datos transaccionales.
 
-### 🛠️ Habilidades Demostradas
+### 🛠️ Capacidades demostradas
 
-`SQL` `Power BI` `ETL` `Data Cleaning` `Star Schema` `Dimensional Modeling` `KPI Analysis` `Sales Analytics` `Logistics Analytics`
+`Análisis de Ingresos` `Validación de Transacciones` `SQL` `Power BI` `ETL` `Limpieza de Datos` `Controles de Conciliación` `Reportes de KPI` `Análisis de Ventas` `Análisis Operativo`
 
 ### 🔗 Repositorio
 
-➡️ [**Ver proyecto completo de Olist Marketplace**](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README_ES.md)
+➡️ [**Ver el proyecto completo de Olist Marketplace**](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README.md)
 
 ---
 
 <br>
 
-# 🚲 AdventureWorks Sales Analytics
+# 🚲 Analítica de Negocios de AdventureWorks
 
-### End-to-End Sales & Customer Analytics Platform
+### Reportes de Ventas, Clientes y Desempeño
 
 **SQL · Power BI · Python · Databricks · PySpark · AWS S3 · Apache Airflow**
 
 ### 🎯 Objetivo
 
-Construir una plataforma analítica end-to-end para comprender:
+Construir una solución integral de reportes para analizar:
 
-**Ventas · Clientes · Productos · Territorios · Vendedores · Retención**
+**Ventas · Ingresos · Clientes · Productos · Territorios · Vendedores · Retención**
 
-Los datos operacionales fueron transformados en datasets analíticos estructurados para soportar análisis de negocio y dashboards de Business Intelligence.
+Los datos operativos y transaccionales fueron transformados en conjuntos de datos estructurados para apoyar los reportes de desempeño, el análisis de negocio y la toma de decisiones gerenciales.
 
 ---
 
-## 📊 Executive Sales Dashboard
+## 📊 Dashboard Ejecutivo de Ventas
 
 <div align="center">
 
-<img src="dashboards_adventure_works/executive_sales_dashboard.png" alt="AdventureWorks Executive Sales Dashboard" width="900">
+<img src="dashboards_adventure_works/executive_sales_dashboard.png" alt="Dashboard Ejecutivo de Ventas de AdventureWorks" width="900">
 
 </div>
 
 ---
 
-## 👥 Customer Segmentation
+## 👥 Segmentación de Clientes
 
 <div align="center">
 
-<img src="dashboards_adventure_works/customer_segmentation.png" alt="AdventureWorks Customer Segmentation" width="900">
+<img src="dashboards_adventure_works/customer_segmentation.png" alt="Segmentación de Clientes de AdventureWorks" width="900">
 
 </div>
 
 ---
 
-## 🚲 Product Analytics
+## 🚲 Analítica de Productos
 
 <div align="center">
 
-<img src="dashboards_adventure_works/product_analytics.png" alt="AdventureWorks Product Analytics" width="900">
+<img src="dashboards_adventure_works/product_analytics.png" alt="Analítica de Productos de AdventureWorks" width="900">
 
 </div>
 
 ---
 
-## 🔎 Principales Insights
+## 🔎 Resultados principales
 
 | Área | Hallazgo |
 |:---|:---|
-| 💰 Estacionalidad | **Primavera generó $29.52M** |
-| 🚲 Productos | **Bicicletas = ~87.7% de los ingresos** |
-| 🌎 Territorios | **Southwest generó ~$24M** |
-| 🏆 Ventas | **Top salesperson generó ~$10.3M** |
-| 👥 Clientes | Segmentación mediante **RFM** |
-| ⚠️ Retención | Identificación de segmentos con riesgo de **churn** |
+| 💰 Estacionalidad | **La primavera generó $29.52M** |
+| 🚲 Productos | **Las bicicletas representaron aproximadamente el 87.7% de los ingresos** |
+| 🌎 Territorios | **Southwest generó aproximadamente $24M** |
+| 🏆 Desempeño de Ventas | **El principal vendedor generó aproximadamente $10.3M** |
+| 👥 Clientes | Los clientes fueron clasificados mediante **segmentación RFM** |
+| ⚠️ Retención | Se identificaron grupos de clientes con posible riesgo de abandono |
 
-### 💡 Recomendaciones
+### 💡 Recomendaciones de negocio
 
 - Proteger y continuar desarrollando el negocio principal de bicicletas.
-- Incrementar oportunidades de **cross-selling** mediante accesorios y ropa.
-- Priorizar territorios de alto desempeño e investigar mercados con menor rendimiento.
-- Utilizar la segmentación RFM para campañas de retención específicas.
-- Analizar y replicar prácticas de los vendedores con mejor desempeño.
-- Alinear inventario y promociones con los patrones estacionales de demanda.
+- Incrementar las oportunidades de venta cruzada mediante accesorios y ropa.
+- Priorizar los territorios de alto desempeño e investigar los mercados con resultados inferiores.
+- Utilizar la segmentación de clientes para apoyar las iniciativas de retención.
+- Comparar el desempeño de ventas entre representantes y territorios.
+- Alinear la planificación de inventarios y las estrategias comerciales con la demanda estacional.
 
-### 🛠️ Habilidades Demostradas
+### 🛠️ Capacidades demostradas
 
-`SQL` `Power BI` `Python` `RFM` `Churn Analysis` `CLV` `Sales Analytics` `Databricks` `PySpark` `Airflow`
+`Reportes Financieros` `Análisis de Ingresos` `Análisis de Desempeño` `SQL` `Power BI` `Python` `Validación de Datos` `RFM` `Segmentación de Clientes` `Monitoreo de KPI`
 
 ### 🔗 Repositorio
 
-➡️ [**Ver proyecto completo de AdventureWorks**](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README_ES.md)
+➡️ [**Ver el proyecto completo de AdventureWorks**](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README.md)
 
 ---
 
 <br>
 
-# 📈 LearnLoop Marketing Analytics
+# 📈 Analítica de Ingresos y Marketing de LearnLoop
 
-### End-to-End Marketing Analytics Platform
+### Análisis de Inversión en Marketing, Clientes e Ingresos
 
 **SQL · Tableau · Snowflake · dbt · Python · Airflow · AWS S3**
 
 ### 🎯 Objetivo
 
-Construir una plataforma de analítica de marketing que conecte datos provenientes de:
+Construir una plataforma analítica que conecte información de:
 
-**Publicidad · Sitio Web · CRM · Suscripciones · Cursos · Ingresos**
+**Publicidad · Actividad del Sitio Web · CRM · Clientes · Suscripciones · Ingresos**
 
-El modelo conecta el recorrido completo del cliente:
+El modelo conecta el recorrido del cliente y la generación de ingresos:
 
 <div align="center">
 
-**Ad Spend → Sessions → Leads → MQLs → SQLs → Customers → Subscriptions → Revenue**
+**Inversión en Marketing → Sesiones → Leads → Clientes → Suscripciones → Ingresos**
 
 </div>
 
-Esto permite evaluar marketing utilizando **clientes e ingresos reales**, en lugar de limitar el análisis a métricas como clics o impresiones.
+Esto permite evaluar la inversión en marketing utilizando clientes, suscripciones e ingresos atribuidos, y no solamente métricas de actividad como clics e impresiones.
 
 ---
 
-## 📊 Campaign Performance
+## 📊 Desempeño de Campañas
 
 <div align="center">
 
-<img src="dashboards_learnloop/campaign_performance.jpg" alt="LearnLoop Campaign Performance Dashboard" width="900">
-
-</div>
-
----
-
-## 🎯 Marketing Funnel
-
-<div align="center">
-
-<img src="dashboards_learnloop/marketing_funnel.jpg" alt="LearnLoop Marketing Funnel Dashboard" width="900">
+<img src="dashboards_learnloop/campaign_performance.jpg" alt="Dashboard de Desempeño de Campañas de LearnLoop" width="900">
 
 </div>
 
 ---
 
-## 💰 Subscription & Customer Value
+## 🎯 Embudo de Adquisición de Clientes
 
 <div align="center">
 
-<img src="dashboards_learnloop/subscription_customer_value.jpg" alt="LearnLoop Subscription Customer Value Dashboard" width="900">
+<img src="dashboards_learnloop/marketing_funnel.jpg" alt="Embudo de Adquisición de Clientes de LearnLoop" width="900">
 
 </div>
 
 ---
 
-## 🔎 Principales Insights
+## 💰 Suscripciones y Valor del Cliente
+
+<div align="center">
+
+<img src="dashboards_learnloop/subscription_customer_value.jpg" alt="Dashboard de Suscripciones y Valor del Cliente de LearnLoop" width="900">
+
+</div>
+
+---
+
+## 🔎 Resultados principales
 
 | KPI | Resultado |
 |:---|---:|
-| 💵 Ad Spend | **$1.11M** |
-| 💰 Revenue | **$373.5K** |
-| 📉 ROAS | **0.34x** |
-| 👤 CAC | **$116.08** |
-| 🌐 Website Sessions | **740,283** |
+| 💵 Inversión en Marketing | **$1.11M** |
+| 💰 Ingresos Atribuidos | **$373.5K** |
+| 📉 Retorno de la Inversión Publicitaria | **0.34x** |
+| 👤 Costo de Adquisición de Clientes | **$116.08** |
+| 🌐 Sesiones del Sitio Web | **740,283** |
 | 🎯 Leads | **93,276** |
-| 👥 Customers | **9,592** |
-| 🔄 Lead → Customer | **~10.3%** |
-| 📊 Session → Customer | **~1.3%** |
-| 🎓 Course Enrollments | **16,628** |
+| 👥 Clientes | **9,592** |
+| 🔄 Conversión de Lead a Cliente | **~10.3%** |
+| 📊 Conversión de Sesión a Cliente | **~1.3%** |
+| 🎓 Inscripciones a Cursos | **16,628** |
 
-### 💡 Recomendaciones
+### 💡 Recomendaciones de negocio
 
-- Reasignar presupuesto hacia campañas con mayor **ROAS**.
-- Establecer objetivos de **ROAS y CAC** por campaña.
-- Mejorar la conversión del funnel antes de aumentar la adquisición de tráfico.
-- Evaluar CAC conjuntamente con **Customer Lifetime Value**.
-- Optimizar la inversión utilizando **clientes e ingresos** como métricas principales de negocio.
+- Reasignar la inversión hacia las campañas con mejor desempeño en ingresos.
+- Definir objetivos de retorno y costo de adquisición para cada campaña.
+- Mejorar la conversión de clientes antes de aumentar la inversión en adquisición.
+- Evaluar los costos de adquisición en relación con el valor del ciclo de vida del cliente.
+- Utilizar los clientes y los ingresos como las principales medidas del desempeño de la inversión.
+- Conciliar la información proveniente de publicidad, CRM, suscripciones e ingresos.
 
-### 🛠️ Habilidades Demostradas
+### 🛠️ Capacidades demostradas
 
-`SQL` `Tableau` `Marketing Analytics` `Funnel Analysis` `ROAS` `CAC` `CLV` `MRR` `ARR` `Snowflake` `dbt` `Python`
+`Análisis de Inversión` `Análisis de Ingresos` `KPI Financieros` `Conciliación de Datos` `SQL` `Tableau` `Análisis de Embudos` `ROAS` `CAC` `CLV` `MRR` `ARR`
 
 ### 🔗 Repositorio
 
-➡️ [**Ver proyecto completo de LearnLoop**](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README_ES.md)
+➡️ [**Ver el proyecto completo de LearnLoop**](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README.md)
 
 ---
 
 <br>
 
-# 🛠️ Stack Técnico
+# 🛠️ Herramientas Profesionales y Analíticas
 
-| Área | Tecnologías |
+| Área | Habilidades y Tecnologías |
 |:---|:---|
-| 📊 **Data Analysis** | SQL · Python · Excel |
+| 💳 **Operaciones Financieras** | Cuentas por Pagar · Cuentas por Cobrar · Procesamiento de Facturas · Conciliaciones Bancarias |
+| ✅ **Controles Financieros** | Validación de Transacciones · Identificación de Discrepancias · Documentación · Seguimiento de Fechas Límite |
+| 🏢 **Sistemas Contables** | AppFolio · Contapyme |
+| 📊 **Análisis y Reportes** | Excel · SQL · Python |
 | 📈 **Business Intelligence** | Power BI · Tableau |
-| 🗄️ **Databases & Warehousing** | SQL Server · Snowflake |
-| 🧱 **Data Modeling** | Star Schema · Dimensional Modeling |
-| 📣 **Marketing Analytics** | ROAS · CAC · CLV · Funnel Analysis |
-| 👥 **Customer Analytics** | RFM · Churn · Segmentation |
-| ⚙️ **Data Transformation** | SQL · dbt · PySpark |
-| ☁️ **Cloud & Data Platforms** | AWS S3 · Databricks |
-| 🔄 **Orchestration** | Apache Airflow |
-| 🔧 **Version Control** | Git · GitHub |
+| 🗄️ **Bases de Datos y Data Warehousing** | SQL Server · Snowflake |
+| 🧱 **Organización de Datos** | Limpieza de Datos · Esquema Estrella · Modelado Dimensional |
+| ⚙️ **Transformación de Datos** | SQL · dbt · PySpark |
+| ☁️ **Plataformas de Datos** | AWS S3 · Databricks |
+| 🔄 **Flujos de Trabajo y Colaboración** | Jira · HubSpot · Slack · Apache Airflow |
+| 🔧 **Control de Versiones** | Git · GitHub |
 
 ---
 
-# 🎯 Mi Enfoque como Analista
+# 🎯 Cómo la Analítica Fortalece mi Perfil de Operaciones Financieras
 
-Para mí, la analítica no termina al construir un dashboard o escribir una consulta SQL.
+Mi base profesional se encuentra en la **contabilidad y las operaciones financieras**. Mi formación analítica fortalece esa experiencia al permitirme trabajar de manera más efectiva con información financiera y operativa.
 
-El objetivo es convertir los datos en respuestas para cuatro preguntas de negocio:
+Utilizo un enfoque analítico para:
 
-<div align="center">
+- Revisar grandes volúmenes de datos transaccionales
+- Validar facturas, pagos y registros contables
+- Identificar información faltante, duplicada o inconsistente
+- Investigar discrepancias y sus posibles causas
+- Monitorear KPI financieros y operativos
+- Elaborar reportes claros para la gerencia y otras partes interesadas
+- Documentar hallazgos y apoyar mejoras de procesos
 
-### ¿Qué está pasando?
-
-### ¿Por qué está pasando?
-
-### ¿Dónde están las oportunidades?
-
-### ¿Qué debería hacer el negocio a continuación?
-
-</div>
-
-Mi enfoque combina **análisis de datos, conocimiento de negocio, Business Intelligence y visualización** para transformar información en decisiones accionables.
+Para mí, la analítica no se limita a crear dashboards o escribir consultas en SQL. Su valor práctico se encuentra en mejorar la **precisión, la visibilidad y el control de las operaciones del negocio**.
 
 ---
 
-# 👨‍💻 Sobre Mí
+# 👨‍💻 Acerca de mí
 
-Soy **Analista de Datos con formación en Administración de Empresas**, combinando conocimiento de negocio con habilidades técnicas de analítica.
+Soy un profesional de **Contabilidad y Operaciones Financieras** con más de tres años de experiencia en procesamiento de facturas, cuentas por pagar, conciliaciones bancarias, validación de datos financieros y apoyo administrativo.
 
-Trabajo principalmente con:
+He trabajado en **operaciones contables de administración de propiedades en Estados Unidos** y tengo experiencia utilizando:
 
-**SQL · Power BI · Tableau · Excel · Python**
+**Excel · AppFolio · Contapyme · HubSpot · Jira · Slack**
 
-También he desarrollado soluciones utilizando:
+También cuento con conocimientos analíticos en:
 
-**Snowflake · dbt · Databricks · PySpark · AWS S3 · Apache Airflow**
+**SQL · Power BI · Tableau · Python · Snowflake · dbt · Databricks**
 
-### 🎯 Áreas de Interés
+Estoy buscando oportunidades en:
 
-`Data Analytics` · `Business Intelligence` · `Marketing Analytics` · `Commercial Analytics`
+`Cuentas por Pagar` · `Cuentas por Cobrar` · `Facturación` · `Procesamiento de Facturas` · `Operaciones Contables` · `Operaciones Financieras`
+
+Me interesan especialmente los cargos en los que pueda combinar mi experiencia en operaciones financieras con la elaboración de reportes, la validación de datos, el control de procesos y la resolución analítica de problemas.
 
 ---
 
@@ -323,14 +343,14 @@ También he desarrollado soluciones utilizando:
 
 ### Juan David Guerrero
 
-**Data Analyst**
+**Profesional de Contabilidad y Operaciones Financieras**
 
-[LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/) · **juangrp12@gmail.com**
+Bucaramanga, Colombia
+
+[LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/) · [GitHub](https://github.com/juandguerrero) · **juangrp12@gmail.com**
 
 <br>
 
-⭐ **Explora los proyectos para ver dashboards, análisis SQL, modelos de datos, insights y recomendaciones de negocio.**
+⭐ **Explora los proyectos para conocer ejemplos de análisis financiero, validación de datos, reportes de KPI, dashboards y recomendaciones de negocio.**
 
 </div>
-
-
