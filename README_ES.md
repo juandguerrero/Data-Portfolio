@@ -1,356 +1,218 @@
-# 📊 Portafolio de Operaciones Financieras y Analítica de Negocios
+# 📊 Juan David Guerrero — Portafolio de Analista de Datos Junior
 
 <div align="center">
 
-### Excel · Análisis Financiero · SQL · Power BI · Tableau · Python
+### SQL · Power BI · Tableau · Excel · Python
 
-**Combinando experiencia en operaciones financieras con análisis de datos para mejorar la precisión, los reportes y la toma de decisiones.**
+**Transformando datos financieros, comerciales, de marketing y operativos en hallazgos claros y recomendaciones accionables.**
+
+[LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/) · [GitHub](https://github.com/juandguerrero) · [Correo electrónico](mailto:juangrp12@gmail.com)
 
 </div>
 
 ---
 
-## 👋 Acerca de este portafolio
+## 👋 Sobre mí
 
-¡Hola! Soy **Juan David Guerrero**, profesional de Contabilidad y Operaciones Financieras con más de tres años de experiencia apoyando procesos de:
+Soy **Analista de Datos Junior**, profesional en Administración de Empresas y cuento con más de tres años de experiencia trabajando con información contable, financiera y operativa.
 
-**Procesamiento de Facturas · Cuentas por Pagar · Cuentas por Cobrar · Conciliaciones Bancarias · Validación de Datos Financieros · Operaciones Administrativas**
+Utilizo **SQL, Power BI, Tableau, Excel y Python** para limpiar y validar datos, definir KPI, identificar tendencias, crear dashboards y traducir los hallazgos en recomendaciones prácticas para el negocio.
 
-Tengo experiencia trabajando en **operaciones contables de administración de propiedades en Estados Unidos**, utilizando herramientas como **Excel, AppFolio, Contapyme, HubSpot, Jira y Slack**.
+Mi experiencia profesional en contabilidad para empresas estadounidenses de administración de propiedades me brinda una base sólida en **precisión de datos, conciliaciones, control de procesos y atención al detalle**. Los proyectos que aparecen a continuación demuestran cómo aplico estas fortalezas a preguntas de negocio relacionadas con ventas, clientes, operaciones y marketing.
 
-Además de mi experiencia profesional en contabilidad, he desarrollado habilidades analíticas en **SQL, Power BI, Tableau, Python y modelado de datos**. Este portafolio presenta proyectos independientes en los que utilizo estas herramientas para organizar, validar, analizar y visualizar información financiera, comercial, operativa y de clientes.
-
-Mi objetivo es combinar conocimientos contables, experiencia operativa y capacidades analíticas para apoyar:
-
-- Procesos financieros y reportes precisos
-- Validación de facturas y transacciones
-- Conciliaciones y análisis de discrepancias
-- Operaciones de cuentas por pagar y cuentas por cobrar
-- Monitoreo de procesos y medición del desempeño
-- Decisiones operativas basadas en datos
+> 🎯 **Actualmente busco oportunidades como:** Analista de Datos Junior, Analista de BI, Analista de Datos Financieros, Analista de Operaciones y Analista de Operaciones de Ingresos.
 
 ---
 
-## 🔄 Mi enfoque analítico
+## 🔎 Lo que hago
 
-<div align="center">
+**Pregunta de negocio → Limpieza de datos → Validación de datos → Análisis → Visualización → Hallazgos → Recomendaciones**
 
-**Pregunta Financiera o de Negocio → Validación de Datos → Análisis → KPI → Reportes → Hallazgos → Recomendaciones**
-
-</div>
-
----
-
-# 📂 Proyectos del portafolio
-
-| Proyecto | Enfoque de Negocio | Herramientas Principales |
-|:---|:---|:---|
-| 🛒 **Olist Marketplace** | Ingresos · Ventas · Pedidos · Logística | Excel · SQL Server · Power BI |
-| 🚲 **AdventureWorks** | Ventas · Clientes · Productos · Desempeño | SQL · Power BI · Python |
-| 📈 **LearnLoop** | Inversión en Marketing · Ingresos · Clientes · Suscripciones | SQL · Tableau · Snowflake · dbt |
-
-> Estos son proyectos independientes de portafolio creados para demostrar mis capacidades analíticas y de elaboración de reportes. Complementan mi experiencia profesional en contabilidad y operaciones financieras.
+- Exploro conjuntos de datos para identificar tendencias, patrones y brechas de rendimiento.
+- Escribo consultas SQL utilizando joins, CTE, subconsultas y funciones de ventana.
+- Construyo modelos de datos y dashboards interactivos en Power BI y Tableau.
+- Defino y monitoreo KPI de ventas, ingresos, clientes, marketing y operaciones.
+- Valido totales e investigo registros faltantes, duplicados o inconsistentes.
+- Comunico los hallazgos utilizando un lenguaje de negocio claro para partes interesadas no técnicas.
 
 ---
 
-# 🛒 Analítica de Olist Marketplace
+## 📂 Proyectos destacados
 
-### Análisis de Ingresos, Ventas y Desempeño Operativo
+| Proyecto | Pregunta de negocio | Herramientas | Resultado destacado |
+|:---|:---|:---|:---|
+| [**Análisis del Marketplace de Olist**](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README.md) | ¿Cómo evolucionan los ingresos, pedidos, categorías de productos y el desempeño de las entregas? | SQL Server, Power BI, Excel | Analicé **R$13.22 millones** en ingresos por productos e identifiqué una tasa de entregas tardías del **8.11%**. |
+| [**Análisis de Ventas de AdventureWorks**](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README.md) | ¿Qué productos, clientes, territorios y vendedores impulsan el desempeño? | SQL, Power BI, Python | Descubrí que las bicicletas generaron el **87.7% de los ingresos** y segmenté a los clientes mediante RFM. |
+| [**Análisis de Marketing de LearnLoop**](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README.md) | ¿La inversión en marketing está generando clientes e ingresos de manera eficiente? | SQL, Tableau, Snowflake, dbt, Python | Conecté **740 mil sesiones** con **9,592 clientes** y calculé un **ROAS de 0.34x**. |
 
-**SQL Server · SQL · Power BI · ETL · Validación de Datos**
-
-### 🎯 Objetivo
-
-Transformar datos fragmentados de un marketplace en una solución analítica estructurada para evaluar:
-
-**Ingresos · Pedidos · Productos · Clientes · Vendedores · Desempeño de Entregas**
-
-El proyecto se enfoca en consolidar información transaccional, validar la calidad de los datos, conciliar cifras de ingresos y crear dashboards de gestión para el monitoreo financiero y operativo.
+> Estos son proyectos independientes de portafolio desarrollados para demostrar mi flujo de trabajo analítico de principio a fin. Cada repositorio incluye el contexto de negocio, la metodología, el análisis, los dashboards, los hallazgos y las recomendaciones.
 
 ---
 
-## 📊 Dashboard
+## 🛒 Análisis del Marketplace de Olist
 
-<div align="center">
+### Desempeño de ventas, ingresos y entregas
 
-<img src="dashboards_olist/Dashboards.jpg" alt="Dashboard de Olist Marketplace" width="900">
+**SQL Server · Power BI · Excel · Modelado de datos · Validación de datos**
 
-</div>
+#### Problema de negocio
 
----
+Olist necesitaba una visión consolidada del desempeño del marketplace en pedidos, productos, clientes, vendedores, pagos y entregas. Transformé datos transaccionales fragmentados en un modelo analítico y dashboards para monitorear KPI comerciales y operativos.
 
-## 🔎 Resultados principales
+#### Lo que hice
+
+- Limpié, relacioné y validé datos provenientes de múltiples tablas relacionales.
+- Construí un esquema estrella con una tabla de hechos de ventas y sus respectivas dimensiones.
+- Concilié los totales de ingresos y verifiqué duplicados e integridad referencial.
+- Creé dashboards en Power BI para analizar ingresos, pedidos, categorías, geografía y logística.
+- Convertí los resultados en recomendaciones para la expansión de mercado y la mejora de las entregas.
+
+#### Hallazgos principales
 
 | KPI / Hallazgo | Resultado |
-|:---|:---|
-| 💰 Ingresos por Productos | **R$13.22M** |
-| 📦 Pedidos Entregados | **96,478** |
-| 🛒 Valor Promedio por Pedido | **R$137.04** |
-| 📈 Crecimiento de Pedidos | **~140%** |
-| 🧴 Categoría Principal | **Salud y Belleza — R$1.23M** |
-| 📍 Mercado Principal | **São Paulo — 38.3% de los ingresos** |
-| 🚚 Tiempo Promedio de Entrega | **12 días** |
-| ⚠️ Entregas Tardías | **8.11%** |
-
-### 💡 Recomendaciones de negocio
-
-- Monitorear los ingresos y el volumen de pedidos por categoría de producto.
-- Investigar las causas operativas de las entregas tardías.
-- Comparar las categorías utilizando tanto los ingresos como el volumen de transacciones.
-- Explorar oportunidades fuera de los mercados con mayor concentración geográfica.
-- Dar seguimiento a las tendencias de pedidos y entregas para identificar cambios en el desempeño operativo.
-- Establecer controles recurrentes para detectar inconsistencias en los datos transaccionales.
-
-### 🛠️ Capacidades demostradas
-
-`Análisis de Ingresos` `Validación de Transacciones` `SQL` `Power BI` `ETL` `Limpieza de Datos` `Controles de Conciliación` `Reportes de KPI` `Análisis de Ventas` `Análisis Operativo`
-
-### 🔗 Repositorio
-
-➡️ [**Ver el proyecto completo de Olist Marketplace**](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README.md)
-
----
-
-<br>
-
-# 🚲 Analítica de Negocios de AdventureWorks
-
-### Reportes de Ventas, Clientes y Desempeño
-
-**SQL · Power BI · Python · Databricks · PySpark · AWS S3 · Apache Airflow**
-
-### 🎯 Objetivo
-
-Construir una solución integral de reportes para analizar:
-
-**Ventas · Ingresos · Clientes · Productos · Territorios · Vendedores · Retención**
-
-Los datos operativos y transaccionales fueron transformados en conjuntos de datos estructurados para apoyar los reportes de desempeño, el análisis de negocio y la toma de decisiones gerenciales.
-
----
-
-## 📊 Dashboard Ejecutivo de Ventas
+|:---|---:|
+| Ingresos por productos | **R$13.22 millones** |
+| Pedidos entregados | **96,478** |
+| Valor promedio por pedido | **R$137.04** |
+| Categoría líder | **Salud y belleza — R$1.23 millones** |
+| Participación de São Paulo en los ingresos | **38.3%** |
+| Tiempo promedio de entrega | **12 días** |
+| Entregas tardías | **8.11%** |
 
 <div align="center">
 
-<img src="dashboards_adventure_works/executive_sales_dashboard.png" alt="Dashboard Ejecutivo de Ventas de AdventureWorks" width="900">
+<img src="dashboards_olist/Dashboards.jpg" alt="Dashboard de Olist Marketplace en Power BI" width="900">
+
+[**Ver proyecto completo →**](https://github.com/juandguerrero/Olist-Marketplace-Sales-Logistics-Analytics/blob/main/README.md)
 
 </div>
 
 ---
 
-## 👥 Segmentación de Clientes
+## 🚲 Análisis de Ventas de AdventureWorks
 
-<div align="center">
+### Análisis de ventas, clientes, productos y territorios
 
-<img src="dashboards_adventure_works/customer_segmentation.png" alt="Segmentación de Clientes de AdventureWorks" width="900">
+**SQL · Power BI · Python · Databricks · PySpark · AWS S3 · Airflow**
 
-</div>
+#### Problema de negocio
 
----
+AdventureWorks necesitaba una solución unificada de reportes para comprender el desempeño de las ventas e identificar los productos, territorios, clientes y vendedores que más contribuían a los ingresos.
 
-## 🚲 Analítica de Productos
+#### Lo que hice
 
-<div align="center">
+- Preparé y transformé los datos de ventas utilizando SQL y Python.
+- Utilicé CTE, funciones de ventana, rankings y comparaciones temporales.
+- Construí seis dashboards en Power BI para análisis ejecutivo, de productos, clientes, territorios y vendedores.
+- Apliqué segmentación RFM para agrupar a los clientes según su comportamiento de compra.
+- Identifiqué la concentración de ingresos, patrones estacionales y oportunidades de retención.
 
-<img src="dashboards_adventure_works/product_analytics.png" alt="Analítica de Productos de AdventureWorks" width="900">
-
-</div>
-
----
-
-## 🔎 Resultados principales
+#### Hallazgos principales
 
 | Área | Hallazgo |
 |:---|:---|
-| 💰 Estacionalidad | **La primavera generó $29.52M** |
-| 🚲 Productos | **Las bicicletas representaron aproximadamente el 87.7% de los ingresos** |
-| 🌎 Territorios | **Southwest generó aproximadamente $24M** |
-| 🏆 Desempeño de Ventas | **El principal vendedor generó aproximadamente $10.3M** |
-| 👥 Clientes | Los clientes fueron clasificados mediante **segmentación RFM** |
-| ⚠️ Retención | Se identificaron grupos de clientes con posible riesgo de abandono |
+| Mezcla de productos | **Las bicicletas generaron aproximadamente el 87.7% de los ingresos.** |
+| Estacionalidad | **La primavera generó $29.52 millones.** |
+| Territorio principal | **Southwest generó aproximadamente $24 millones.** |
+| Desempeño de ventas | **El vendedor con mejor desempeño generó aproximadamente $10.3 millones.** |
+| Análisis de clientes | **La segmentación RFM permitió identificar grupos de clientes valiosos y en riesgo.** |
 
-### 💡 Recomendaciones de negocio
+<div align="center">
 
-- Proteger y continuar desarrollando el negocio principal de bicicletas.
-- Incrementar las oportunidades de venta cruzada mediante accesorios y ropa.
-- Priorizar los territorios de alto desempeño e investigar los mercados con resultados inferiores.
-- Utilizar la segmentación de clientes para apoyar las iniciativas de retención.
-- Comparar el desempeño de ventas entre representantes y territorios.
-- Alinear la planificación de inventarios y las estrategias comerciales con la demanda estacional.
+<img src="dashboards_adventure_works/executive_sales_dashboard.png" alt="Dashboard ejecutivo de ventas de AdventureWorks" width="900">
 
-### 🛠️ Capacidades demostradas
+[**Ver proyecto completo →**](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README.md)
 
-`Reportes Financieros` `Análisis de Ingresos` `Análisis de Desempeño` `SQL` `Power BI` `Python` `Validación de Datos` `RFM` `Segmentación de Clientes` `Monitoreo de KPI`
-
-### 🔗 Repositorio
-
-➡️ [**Ver el proyecto completo de AdventureWorks**](https://github.com/juandguerrero/AdventureWorks-Sales-Analytics-Platform/blob/main/README.md)
+</div>
 
 ---
 
-<br>
+## 📈 Análisis de Marketing de LearnLoop
 
-# 📈 Analítica de Ingresos y Marketing de LearnLoop
-
-### Análisis de Inversión en Marketing, Clientes e Ingresos
+### Análisis del embudo de marketing, adquisición de clientes e ingresos
 
 **SQL · Tableau · Snowflake · dbt · Python · Airflow · AWS S3**
 
-### 🎯 Objetivo
+#### Problema de negocio
 
-Construir una plataforma analítica que conecte información de:
+LearnLoop necesitaba comprender si la inversión publicitaria estaba generando clientes e ingresos, y no solamente clics y sesiones. Creé un flujo de trabajo analítico que conecta la actividad de marketing con datos de CRM, suscripciones, clientes e ingresos.
 
-**Publicidad · Actividad del Sitio Web · CRM · Clientes · Suscripciones · Ingresos**
+#### Lo que hice
 
-El modelo conecta el recorrido del cliente y la generación de ingresos:
+- Integré datos provenientes de publicidad, sitio web, CRM, suscripciones e ingresos.
+- Organicé las transformaciones SQL en capas de **staging, intermediate y marts** utilizando dbt.
+- Definí KPI financieros y del embudo, incluyendo tasas de conversión, CAC, ROAS, MRR y ARR.
+- Construí dashboards en Tableau para analizar campañas, desempeño del embudo, valor del cliente y cursos.
+- Identifiqué inversión ineficiente en marketing y oportunidades para mejorar la conversión.
 
-<div align="center">
-
-**Inversión en Marketing → Sesiones → Leads → Clientes → Suscripciones → Ingresos**
-
-</div>
-
-Esto permite evaluar la inversión en marketing utilizando clientes, suscripciones e ingresos atribuidos, y no solamente métricas de actividad como clics e impresiones.
-
----
-
-## 📊 Desempeño de Campañas
-
-<div align="center">
-
-<img src="dashboards_learnloop/campaign_performance.jpg" alt="Dashboard de Desempeño de Campañas de LearnLoop" width="900">
-
-</div>
-
----
-
-## 🎯 Embudo de Adquisición de Clientes
-
-<div align="center">
-
-<img src="dashboards_learnloop/marketing_funnel.jpg" alt="Embudo de Adquisición de Clientes de LearnLoop" width="900">
-
-</div>
-
----
-
-## 💰 Suscripciones y Valor del Cliente
-
-<div align="center">
-
-<img src="dashboards_learnloop/subscription_customer_value.jpg" alt="Dashboard de Suscripciones y Valor del Cliente de LearnLoop" width="900">
-
-</div>
-
----
-
-## 🔎 Resultados principales
+#### Hallazgos principales
 
 | KPI | Resultado |
 |:---|---:|
-| 💵 Inversión en Marketing | **$1.11M** |
-| 💰 Ingresos Atribuidos | **$373.5K** |
-| 📉 Retorno de la Inversión Publicitaria | **0.34x** |
-| 👤 Costo de Adquisición de Clientes | **$116.08** |
-| 🌐 Sesiones del Sitio Web | **740,283** |
-| 🎯 Leads | **93,276** |
-| 👥 Clientes | **9,592** |
-| 🔄 Conversión de Lead a Cliente | **~10.3%** |
-| 📊 Conversión de Sesión a Cliente | **~1.3%** |
-| 🎓 Inscripciones a Cursos | **16,628** |
-
-### 💡 Recomendaciones de negocio
-
-- Reasignar la inversión hacia las campañas con mejor desempeño en ingresos.
-- Definir objetivos de retorno y costo de adquisición para cada campaña.
-- Mejorar la conversión de clientes antes de aumentar la inversión en adquisición.
-- Evaluar los costos de adquisición en relación con el valor del ciclo de vida del cliente.
-- Utilizar los clientes y los ingresos como las principales medidas del desempeño de la inversión.
-- Conciliar la información proveniente de publicidad, CRM, suscripciones e ingresos.
-
-### 🛠️ Capacidades demostradas
-
-`Análisis de Inversión` `Análisis de Ingresos` `KPI Financieros` `Conciliación de Datos` `SQL` `Tableau` `Análisis de Embudos` `ROAS` `CAC` `CLV` `MRR` `ARR`
-
-### 🔗 Repositorio
-
-➡️ [**Ver el proyecto completo de LearnLoop**](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README.md)
-
----
-
-<br>
-
-# 🛠️ Herramientas Profesionales y Analíticas
-
-| Área | Habilidades y Tecnologías |
-|:---|:---|
-| 💳 **Operaciones Financieras** | Cuentas por Pagar · Cuentas por Cobrar · Procesamiento de Facturas · Conciliaciones Bancarias |
-| ✅ **Controles Financieros** | Validación de Transacciones · Identificación de Discrepancias · Documentación · Seguimiento de Fechas Límite |
-| 🏢 **Sistemas Contables** | AppFolio · Contapyme |
-| 📊 **Análisis y Reportes** | Excel · SQL · Python |
-| 📈 **Business Intelligence** | Power BI · Tableau |
-| 🗄️ **Bases de Datos y Data Warehousing** | SQL Server · Snowflake |
-| 🧱 **Organización de Datos** | Limpieza de Datos · Esquema Estrella · Modelado Dimensional |
-| ⚙️ **Transformación de Datos** | SQL · dbt · PySpark |
-| ☁️ **Plataformas de Datos** | AWS S3 · Databricks |
-| 🔄 **Flujos de Trabajo y Colaboración** | Jira · HubSpot · Slack · Apache Airflow |
-| 🔧 **Control de Versiones** | Git · GitHub |
-
----
-
-# 🎯 Cómo la Analítica Fortalece mi Perfil de Operaciones Financieras
-
-Mi base profesional se encuentra en la **contabilidad y las operaciones financieras**. Mi formación analítica fortalece esa experiencia al permitirme trabajar de manera más efectiva con información financiera y operativa.
-
-Utilizo un enfoque analítico para:
-
-- Revisar grandes volúmenes de datos transaccionales
-- Validar facturas, pagos y registros contables
-- Identificar información faltante, duplicada o inconsistente
-- Investigar discrepancias y sus posibles causas
-- Monitorear KPI financieros y operativos
-- Elaborar reportes claros para la gerencia y otras partes interesadas
-- Documentar hallazgos y apoyar mejoras de procesos
-
-Para mí, la analítica no se limita a crear dashboards o escribir consultas en SQL. Su valor práctico se encuentra en mejorar la **precisión, la visibilidad y el control de las operaciones del negocio**.
-
----
-
-# 👨‍💻 Acerca de mí
-
-Soy un profesional de **Contabilidad y Operaciones Financieras** con más de tres años de experiencia en procesamiento de facturas, cuentas por pagar, conciliaciones bancarias, validación de datos financieros y apoyo administrativo.
-
-He trabajado en **operaciones contables de administración de propiedades en Estados Unidos** y tengo experiencia utilizando:
-
-**Excel · AppFolio · Contapyme · HubSpot · Jira · Slack**
-
-También cuento con conocimientos analíticos en:
-
-**SQL · Power BI · Tableau · Python · Snowflake · dbt · Databricks**
-
-Estoy buscando oportunidades en:
-
-`Cuentas por Pagar` · `Cuentas por Cobrar` · `Facturación` · `Procesamiento de Facturas` · `Operaciones Contables` · `Operaciones Financieras`
-
-Me interesan especialmente los cargos en los que pueda combinar mi experiencia en operaciones financieras con la elaboración de reportes, la validación de datos, el control de procesos y la resolución analítica de problemas.
-
----
-
-# 📫 Contacto
+| Inversión en marketing | **$1.11 millones** |
+| Ingresos atribuidos | **$373.5 mil** |
+| Retorno de la inversión publicitaria | **0.34x** |
+| Costo de adquisición de clientes | **$116.08** |
+| Sesiones del sitio web | **740,283** |
+| Leads | **93,276** |
+| Clientes | **9,592** |
+| Conversión de lead a cliente | **10.3%** |
 
 <div align="center">
 
-### Juan David Guerrero
+<img src="dashboards_learnloop/campaign_performance.jpg" alt="Dashboard de desempeño de campañas de LearnLoop en Tableau" width="900">
 
-**Profesional de Contabilidad y Operaciones Financieras**
+[**Ver proyecto completo →**](https://github.com/juandguerrero/LearnLoop-Marketing-Analytics-Platform/blob/main/README.md)
 
-Bucaramanga, Colombia
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/) · [GitHub](https://github.com/juandguerrero) · **juangrp12@gmail.com**
+---
 
-<br>
+## 🛠️ Habilidades técnicas
 
-⭐ **Explora los proyectos para conocer ejemplos de análisis financiero, validación de datos, reportes de KPI, dashboards y recomendaciones de negocio.**
+| Área | Habilidades y tecnologías |
+|:---|:---|
+| **Análisis de datos** | Análisis exploratorio de datos · Definición de KPI · Análisis de tendencias · Recomendaciones de negocio |
+| **SQL** | Joins · CTE · Subconsultas · CASE · Vistas · Funciones de ventana · Validación de datos |
+| **Inteligencia de negocios** | Power BI · DAX · Tableau · Looker Studio · Diseño de dashboards |
+| **Excel / Sheets** | Tablas dinámicas · XLOOKUP · SUMIFS · COUNTIFS · IF · IFERROR · Limpieza de datos |
+| **Python** | pandas · NumPy · Matplotlib · Seaborn · scikit-learn |
+| **Modelado de datos** | Esquema estrella · Tablas de hechos y dimensiones · Modelado dimensional |
+| **Plataformas de datos** | SQL Server · Snowflake · Databricks · AWS S3 |
+| **Transformación y pipelines** | dbt · PySpark · Apache Airflow · ETL/ELT |
+| **Conocimiento de negocio** | Operaciones financieras · AP/AR · Conciliaciones · Ingresos · Ventas · Embudos de marketing |
+| **Otras herramientas** | Git · GitHub · AppFolio · HubSpot · Jira |
+
+---
+
+## 💼 Experiencia profesional
+
+Antes de enfocarme en el análisis de datos, trabajé en contabilidad y operaciones financieras, incluyendo más de un año y medio brindando soporte a empresas estadounidenses de administración de propiedades.
+
+Esa experiencia me enseñó a:
+
+- Trabajar cuidadosamente con grandes volúmenes de datos financieros y operativos.
+- Conciliar registros e investigar discrepancias.
+- Cumplir fechas límite y mantener documentación precisa.
+- Comunicar problemas claramente a los equipos internos.
+- Comprender el significado de negocio detrás de las transacciones y los KPI.
+
+Esta experiencia me permite abordar el análisis de datos combinando **curiosidad técnica y contexto de negocio**.
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+### Juan David Guerrero Parada
+
+**Analista de Datos Junior | Analítica Financiera y Operativa**
+
+Bucaramanga, Colombia · Disponible para oportunidades remotas
+
+[LinkedIn](https://www.linkedin.com/in/juan-david-guerrero-parada/) · [GitHub](https://github.com/juandguerrero) · [Correo electrónico](mailto:juangrp12@gmail.com)
+
+⭐ Explora los repositorios de los proyectos para consultar los scripts SQL, modelos de datos, dashboards, hallazgos y recomendaciones.
 
 </div>
