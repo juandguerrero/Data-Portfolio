@@ -18,7 +18,7 @@ Soy **Analista de Datos Junior**, profesional en Administración de Empresas y c
 
 Utilizo **SQL, Power BI, Tableau, Excel y Python** para limpiar y validar datos, definir KPI, identificar tendencias, crear dashboards y traducir los hallazgos en recomendaciones prácticas para el negocio.
 
-Mi experiencia profesional en contabilidad para empresas estadounidenses de administración de propiedades me brinda una base sólida en **precisión de datos, conciliaciones, control de procesos y atención al detalle**. Los proyectos que aparecen a continuación demuestran cómo aplico estas fortalezas a preguntas de negocio relacionadas con ventas, clientes, operaciones y marketing.
+Mi experiencia profesional en contabilidad y administración de propiedades me brinda una base sólida en **precisión de datos, conciliaciones, control de procesos y atención al detalle**. Los proyectos que aparecen a continuación demuestran cómo aplico estas fortalezas a preguntas de negocio relacionadas con ventas, clientes, operaciones y marketing.
 
 > 🎯 **Actualmente busco oportunidades como:** Analista de Datos Junior, Analista de BI, Analista de Datos Financieros, Analista de Operaciones y Analista de Operaciones de Ingresos.
 
@@ -187,7 +187,7 @@ LearnLoop necesitaba comprender si la inversión publicitaria estaba generando c
 
 ## 💼 Experiencia profesional
 
-Antes de enfocarme en el análisis de datos, trabajé en contabilidad y operaciones financieras, incluyendo más de un año y medio brindando soporte a empresas estadounidenses de administración de propiedades.
+Antes de enfocarme en el análisis de datos, trabajé durante más de tres años con información contable, financiera y operativa, incluyendo más de un año y medio en el sector de administración de propiedades.
 
 Esa experiencia me enseñó a:
 
