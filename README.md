@@ -1,4 +1,3 @@
-```markdown
 # 📊 Juan David Guerrero — Junior Data Analyst Portfolio
 
 <div align="center">
@@ -217,5 +216,5 @@ Bucaramanga, Colombia · Available for remote opportunities
 ⭐ Explore the project repositories to review the SQL scripts, data models, dashboards, insights, and recommendations.
 
 </div>
-```
+
 
